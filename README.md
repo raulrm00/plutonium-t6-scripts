@@ -11,3 +11,4 @@ This repo contains some usefull scripts for [Plutonium](https://plutonium.pw) T6
 ## Scripts
 
 - _[zm_counter.gsc](scripts/zm/zm_counter.gsc)_ - Remaining zombies counter
+- _[zm_round_one_spawn.gsc](scripts/zm/zm_round_one_spawn.gsc)_ - Allow players spawn at round 1 even if round already started
