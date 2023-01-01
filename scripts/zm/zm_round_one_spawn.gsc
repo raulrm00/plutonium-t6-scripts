@@ -16,7 +16,7 @@ onPlayerConnect()
 
 spawnIfRoundOne()
 {
-    wait 3;
+	wait 3;
 	if ( self.sessionstate == "spectator" && level.round_number == 1 )
 		self iprintln("Spawning...");
 	wait 5;
