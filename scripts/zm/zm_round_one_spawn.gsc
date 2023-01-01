@@ -6,7 +6,7 @@ init()
 onPlayerConnect()
 {
 	level endon( "end_game" );
-    self endon( "disconnect" );
+	self endon( "disconnect" );
 	for (;;)
 	{
 		level waittill( "connected", player );
